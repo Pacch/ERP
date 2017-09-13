@@ -131,10 +131,12 @@ div.conteiner-SGE-top{
     display: flex;
 
 }
+div.SGE-1 ,div.SGE-2 ,div.SGE-3 ,div.SGE-4 ,div.SGE-5, div.SGE-6{
+    padding: 15px 0;
+}
 
 .conteiner-SGE-TOP h4, .container-SGE-BOT h4{
     margin: 0;
-    padding-top:40px;
 }
 
 
