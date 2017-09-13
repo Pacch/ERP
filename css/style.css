@@ -107,6 +107,11 @@ body {
     justify-content: flex-start;
 }
 
+.linea{
+    border-bottom: 2px #eee solid;
+    margin-bottom: 10px;
+}
+
 
 input.encuesta{
     width: 40px;
