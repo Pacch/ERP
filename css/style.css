@@ -132,6 +132,14 @@ div.conteiner-SGE-top{
 
 }
 
+.conteiner-SGE-TOP h4, .container-SGE-BOT h4{
+    margin: 0;
+}
+
+.SGE-1, .SGE-2 , .SGE-3 ,.SGE-4 , .SGE-5{
+    padding-bottom: 20px;
+}
+
 .container:before,
 .container:after,
 .row:before,
