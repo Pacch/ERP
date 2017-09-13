@@ -81,6 +81,10 @@ body {
     justify-content: space-around;
 }
 
+.encuesta{
+    padding-top: 10px;
+}
+
 .image-pymes{
     float: left;
     margin: 0 9px 3px 0;
@@ -90,6 +94,23 @@ body {
     text-align: justify;
     font-size: 14px;
     font-weight: normal;
+}
+
+.content-encuesta{
+    display: flex;
+    justify-content: center;
+}
+
+.content-afiche{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+
+input.encuesta{
+    width: 40px;
+
 }
 
 .container:before,
