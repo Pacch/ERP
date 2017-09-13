@@ -74,10 +74,12 @@ body {
 
 .texto {
     font-size: 14px;
+    text-align: justify;
+
 }
 
 .abajo{
-    margin: 0 10px;
+
 }
 
 .botones{
