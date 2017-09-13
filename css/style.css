@@ -76,6 +76,11 @@ body {
     font-size: 14px;
 }
 
+.botones{
+    display: flex;
+    justify-content: space-around;
+}
+
 .container:before,
 .container:after,
 .row:before,
@@ -3709,3 +3714,4 @@ span.format {
 #copyright p {
     margin: 0
 }
+
