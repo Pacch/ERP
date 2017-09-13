@@ -127,6 +127,11 @@ input.encuesta{
 
 }
 
+div.conteiner-SGE-top{
+    display: flex;
+
+}
+
 .container:before,
 .container:after,
 .row:before,
