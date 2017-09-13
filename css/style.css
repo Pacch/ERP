@@ -81,6 +81,17 @@ body {
     justify-content: space-around;
 }
 
+.image-pymes{
+    float: left;
+    margin: 0 9px 3px 0;
+}
+
+ .texto-registro .texto-pymes,{
+    text-align: justify;
+    font-size: 14px;
+    font-weight: normal;
+}
+
 .container:before,
 .container:after,
 .row:before,
