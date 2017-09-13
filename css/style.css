@@ -76,6 +76,10 @@ body {
     font-size: 14px;
 }
 
+.abajo{
+    margin: 0 10px;
+}
+
 .botones{
     display: flex;
     justify-content: space-around;
@@ -112,6 +116,9 @@ body {
     margin-bottom: 10px;
 }
 
+.espacio{
+    margin:0 10px;
+}
 
 input.encuesta{
     width: 40px;
