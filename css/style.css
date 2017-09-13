@@ -85,6 +85,12 @@ body {
 .clearfix:after {
     clear: both
 }
+
+h5 {
+    padding: 10px 0 10px 0 ;
+    font-size: 20px;
+    text-align: center;
+}
 img {
     outline: 0;
     border: 0;
@@ -387,6 +393,7 @@ select {
     margin-left: auto
 }
 .row {
+    padding-top: 25px;
     margin-right: -15px;
     margin-left: -15px
 }
@@ -2636,15 +2643,21 @@ img.mfp-img {
 }
 /* Weather forecast */
 #header .header_meta .weather_forecast {
-    float: left;
+    display: flex;
+    justify-content: space-between;
+    /*float: left;*/
     line-height: 45px
 }
 #header .header_meta .weather_forecast i {
     margin-right: 5px;
     font-size: 14px
 }
-#header .header_meta .weather_forecast .city {
+#header .header_meta .weather_forecast .city, .telefono, .correo {
     color: #fff
+}
+
+#header .header_meta .weather_forecast .telefono, .correo {
+    padding-left: 15px;
 }
 #header .header_meta .weather_forecast .temp {}
 /* Main */
