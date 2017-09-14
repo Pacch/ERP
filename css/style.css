@@ -139,6 +139,39 @@ div.SGE-1 ,div.SGE-2 ,div.SGE-3 ,div.SGE-4 ,div.SGE-5, div.SGE-6{
     margin: 0;
 }
 
+.lista-footer{
+    display: flex;
+    width: 400px;
+    list-style: none;
+}
+
+.lista-footer a{
+    color: white !important;
+
+}
+.lista-footer li{
+    width: 100%;
+    display: flex;
+    justify-content: space-around
+
+}
+
+.lista-footer li:after
+{
+    content: "|";
+    display:inline-block;  /*esto se use para poder usar margen 0*/
+    /*margin: 0 10px;*/
+}
+
+.lista-footer li:last-child:after  /*codigo para quitar la ultima raya */
+{
+    display: none;
+}
+
+div .footer-div{
+    display: flex;
+    justify-content: center;
+}
 
 .container:before,
 .container:after,
