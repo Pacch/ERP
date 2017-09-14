@@ -173,6 +173,10 @@ div .footer-div{
     justify-content: center;
 }
 
+div .sub-mapa{
+  padding: 0 0 0 40px;
+}
+
 .container:before,
 .container:after,
 .row:before,
