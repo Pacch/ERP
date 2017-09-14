@@ -469,3 +469,7 @@ nav.site_navigation ul.menu > li.has_dt_mega_menu > ul.dt_mega_menu > li > .widg
 .main_content {
     width: 610px
 }
+
+.nosotros-imagen{
+    width: 30% !important;
+}

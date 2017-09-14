@@ -194,3 +194,8 @@ ul.products li.product:nth-child(2n) {
     float: right;
     clear: none;
 }
+
+.nosotros-imagen img{
+display: none !important;
+}
+

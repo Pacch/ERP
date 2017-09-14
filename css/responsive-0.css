@@ -279,3 +279,7 @@ article.post h1.entry_title {
     width: 100%;
     float: none;
 }
+
+.nosotros-imagen img{
+display: none !important;
+}

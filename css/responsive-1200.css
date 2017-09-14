@@ -423,3 +423,7 @@ nav.site_navigation ul.menu > li.has_dt_mega_menu > ul.dt_mega_menu > li > .widg
 .site_sub_menu_toggle {
     display: none
 }
+
+.nosotros-imagen{
+    width: 30% !important;
+}
