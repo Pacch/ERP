@@ -78,6 +78,10 @@ body {
 
 }
 
+.texto-margen{
+    margin: 0 6px 12px 12px;
+}
+
 .formulario-registro{
     width: 80%;
 }
@@ -129,6 +133,12 @@ body {
 
 .espacio{
     margin:0 10px !important;
+}
+
+div .columnas-SGE{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 15px;
 }
 
 div.conteiner-registro{

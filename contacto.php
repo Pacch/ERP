@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SAP HP SOLCUCIONES </title>
+    <title>PERU-ERP.com - Contácto</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords" content="que es sap, que es erp, trabajo it, consultoría erp, sistemas erp, sistema de gestión empresarial, mrp, sistemas rrhh, recursos humanos, sistema contable, sistema ventas, sistema facturación, sistema inventarios, sistemas logisticos, crm, sistemas, erp, consultoría, contable, software, implementación, contabilidad, ventas, facturacion, logistica, tesorería, inventarios, procure to pay, cuentas por cobrar, cuentas por pagar, activos fijos, contabilidad general, cuentas mayor, general ledger, consultoría sap, consultoría oracle, consultoría openerp, erp, xendra, compire, openbravo, lima, crm, peru, gestión, empresarial, sap, dynamic, ebs, código abierto, consultoria de sistemas, perú" />
+    <meta name="description" content="PERU-ERP.COM, consultoría e implementación de sistemas de gestión empresarial erp en el Perú." />
+    <meta name="author" content="ERP PERU">
 
     <!-- Favicons -->
     <link rel="icon" href="favicon.png">
@@ -69,7 +72,7 @@
                             <li class="menu-item-has-children"><a href="empleos.html">Empleos</a>
                             </li>
 
-                            <li><a href="contacto.html">Contacto</a></li>
+                            <li><a href="contacto.php">Contácto</a></li>
                         </ul>
                     </nav><!-- End Site navigation -->
                     <!-- Site navigation -->
@@ -85,7 +88,7 @@
                         <!-- Panel title -->
                         <div class="panel_title" jQuery>
                                 <div>
-                                    <h4>Novedades ERP</h4>
+                                    <h4>Contácto</h4>
                                 </div>
                         </div>
                         <div class="row">
@@ -95,32 +98,44 @@
                                     <div class="list_posts">
                                         <!-- Post -->
                                         <div class="post clearfix">
-                                            <div class="item_content espacio ">
-                                                    <h4>SAP y HP crean un círculo virtuoso de calidad</h4>
-                                                    <br>
-                                                    <h4><i class="fa fa-square" aria-hidden="true"></i> Ambas empresas lanzaron soluciones conjuntas que integran las tecnologías de Quality Center, de HP, y de Solution Manager, de SAP, para facilitar el proceso de pruebas de sistemas y, de esa forma, disminuir los riesgos y bajar los costos de testing hasta en un 66 por ciento. Están disponibles en América latina.</a></h4>
-                                                    <p class="texto">SAP y HP desarrollaron en conjunto una solución de prueba de sistemas premium que integra de manera completa los procesos de testing, las personas involucradas y los datos necesarios para llevar a cabo la tarea. Se trata del SAP Quality Center by HP, que propone un proceso de calidad total a partir de la extensión de las capacidades de testing del SAP Solution Manager a partir de las tecnologías disponibles en HP Quality Center. 
-                                                    </p>
-                                                    <br>
-                                                    <p class="texto">
-                                                        Las pruebas de sistemas han sido, desde siempre, un verdadero dolor de cabeza para las empresas. Las razones son variadas y de diferente índole. Si se analiza desde el punto de vista del proceso, los problemas surgen a partir de que las pruebas suelen ajustarse al tiempo disponible y no al perfil de riesgo deseado. Además, consumen hasta un 60% del esfuerzo total durante una actualización técnica y las soluciones integrales actuales son mayormente manuales, además de que hacen foco en el “marco” en lugar del “contenido” del proceso de pruebas. “Sin embargo, es una etapa esencial, ya que la resolución de los defectos que no se detectan a tiempo tiene costos mucho más elevados durante la etapa de producción”, explicó Steven Mann, Director de IT Transformation Services de SAP para América latina.
-                                                    </p>
-                                                    <br>
-                                                    <p class="texto">
-                                                        Para resolver estos conflictos es que surgió, precisamente, el SAP Quality Center by HP, que promueve un proceso de gestión de calidad de punta a punta, tanto en la implementación de nuevas soluciones como en los upgrades, ya que permite administrar y controlar con precisión una metodología repetible de ensayo. Así, en una primera instancia, se definen los requisitos y la configuración en el SAP Solution Manager. Luego, el equipo de prueba transfiere esos requisitos a SAP Quality Center by HP y completa la evaluación del riesgo. En un tercer paso, se desarrollan o actualizan casos de prueba y se establece una matriz de seguimiento. Luego, se emplea SAP TAO (Test Acceleration and Optimization) para crear componentes automatizados y manuales reutilizables. De esta manera, se evitan muchas horas de programación en las pruebas sucesivas. Por último, se ejecutan las pruebas manuales y automatizadas, se registran los resultados y se los transfiera al Solution Manager.
-                                                    </p>
-                                                    <br>
-                                                    <p class="texto">
-                                                        Por otra parte, SAP y HP también están trabajando con SAP Load Runner by HP, una solución para pruebas de desempeño que reemplaza usuarios reales con cientos de usuarios virtuales, genera pruebas de carga de alta exactitud, medibles, repetibles y desde un solo punto de control y detecta cuellos de botella en los sistemas.
-                                                    </p>
-                                                    <p class="texto">
-                                                        "El proceso de pruebas y de calidad de punta a punta propuesto por SAP y HP puede reducir los costos de testing de SAP en hasta un 66 por ciento", concluyó Mann.
-                                                    </p>
-                                                    <br>
-                                                    <p class="texto">
-                                                        Fuente: <a href="http://cioal.com/">http://cioal.com/</a>
-                                                    </p>
-                                                    <p>Junio 2010</p>
+                                            <div class="item_content espacio">
+                                            <h4><a href="#"><i class="fa fa-chevron-right" aria-hidden="true"></i> Contáctenos</a></h4>
+                                    <div class="content-encuesta">
+                                       <form>
+                                            <div class="conteiner-encuesta">
+                                                <div>
+                                                    <label for="contacto">Nombres o Razón Social: (*)</label>
+                                                    <input type="text" name="Nombres o Razón Social" value="">
+                                                </div>
+                                                <div>
+                                                    <label for="contacto">Correo Electrónico: (*)</label>
+                                                    <input type="text" name="Nombres o Razón Social" value=""><br>    
+                                                </div>
+                                                <div>
+                                                    <label for="contacto">Seleccione un Tipo de Servicio:</label><br>
+                                                    <select>
+                                                            <option disabled="disabled" selected="selected">Selecciona un Servicio</option>
+                                                            <option value="Consultoría ERP General">Consultoría ERP General</option>
+                                                            <option value="Consultoría SAP">Consultoría SAP</option>
+                                                            <option value="Consultoría EBS">Consultoría EBS</option>
+                                                            <option value="Consultoría Oracle OBS">Consultoría Oracle OBS</option>
+                                                            <option value="Consultoría ERP Open Source">Consultoría ERP Open Source</option>
+                                                            <option value="Capacitación">Capacitación</option>
+                                                    </select>    
+                                                </div>
+                                                <div>
+                                                    <label for="contacto">Descripción:</label>
+                                                    <textarea rows="4" cols="50">
+                                                    </textarea>     
+                                                </div>
+                                          </div>
+                                          <div class="botones encuesta">
+                                            <a href="#" class="btn btn_red">Enviar</a>
+                                            <a href="#" class="btn btn_red">Limpiar</a>  
+                                          </div>
+                                        </form>
+                                    </div>
+                                                
                                             </div>
                                         </div><!-- End Post -->                                     
                                     </div><!-- End Post lists -->
@@ -176,7 +191,7 @@
                 <div class="col col_12_of_12 footer-div">
                     <ul class="lista-footer">
                                 <li><a href="legal.html">Legal</a></li>
-                                <li><a href="contacto.html">Contácto</a></li>
+                                <li><a href="contacto.php">Contácto</a></li>
                                 <li><a href="politicas.html">Políticas</a> </li>
                                 <li><a href="publicidad.html">Publicidad</a>   </li>
                                 <li><a href="enlaces.html">Enlaces</a></li>

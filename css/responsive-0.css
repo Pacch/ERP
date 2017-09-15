@@ -288,5 +288,8 @@ div .demanda-imagenes{
     width: 100%;
     display: flex;
     justify-content: center;
+}
 
+div .columnas-SGE{
+    display: block;
 }

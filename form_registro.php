@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Demanda de ERP </title>
+    <title>Registro</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
+    <meta name="keywords" content="que es sap, que es erp, trabajo it, consultoría erp, sistemas erp, sistema de gestión empresarial, mrp, sistemas rrhh, recursos humanos, sistema contable, sistema ventas, sistema facturación, sistema inventarios, sistemas logisticos, crm, sistemas, erp, consultoría, contable, software, implementación, contabilidad, ventas, facturacion, logistica, tesorería, inventarios, procure to pay, cuentas por cobrar, cuentas por pagar, activos fijos, contabilidad general, cuentas mayor, general ledger, consultoría sap, consultoría oracle, consultoría openerp, erp, xendra, compire, openbravo, lima, crm, peru, gestión, empresarial, sap, dynamic, ebs, código abierto, consultoria de sistemas, perú" />
+    <meta name="description" content="PERU-ERP.COM, consultoría e implementación de sistemas de gestión empresarial erp en el Perú." />
+    <meta name="author" content="ERP PERU">
     <!-- Favicons -->
     <link rel="icon" href="favicon.png">
     <link rel="stylesheet" href="iconos/css/font-awesome.min.css">
@@ -69,7 +71,7 @@
                             <li class="menu-item-has-children"><a href="empleos.html">Empleos</a>
                             </li>
 
-                            <li><a href="contacto.html">Contacto</a></li>
+                            <li><a href="contacto.php">Contácto</a></li>
                         </ul>
                     </nav><!-- End Site navigation -->
                     <!-- Site navigation -->
@@ -85,7 +87,7 @@
                         <!-- Panel title -->
                         <div class="panel_title" jQuery>
                                 <div>
-                                    <h4>ERP en Empresas Comercializadoras:</h4>
+                                    <h4>Formulario de Registro</h4>
                                 </div>
                         </div>
                         <div class="row">
@@ -95,44 +97,64 @@
                                     <div class="list_posts">
                                         <!-- Post -->
                                         <div class="post clearfix">
-                                            <div class="item_content espacio ">
-                                                    <h4><i class="fa fa-square" aria-hidden="true"></i> Retail</h4> 
-                                                        <p class="texto">
-                                                            Entre los principales ERPs utilizados en el Perú para empresas de Retail tenemos:
-                                                        </p>
+                                            <div class="item_content espacio">
+                                            <h4><a href="#"><i class="fa fa-chevron-right" aria-hidden="true"></i> Registro</a></h4>
+                                            <br>
+                                            <h4><a href="#"> Datos Personales</a></h4>
+                                            <div class="content-registro">
+                                                <form class="formulario-registro">
+                                                    <div >
+                                                        <div class="conteiner-registro">
+                                                            <label for="registro"> Nombres: (*)</label>
+                                                            <input type="text" name="Nombres" value="" placeholder="Ingrese su nombre aqui">
+                                                        </div>
                                                         <br>
-                                                        <h4><i class="fa fa-square" aria-hidden="true"></i> SAP R3</h4> 
-                                                            <div class="sub-mapa">
-                                                                <h5><a href="#"><i class="fa fa-check" aria-hidden="true"></i> Maestro Ace Home Center</a></h5>
+                                                        <div class="conteiner-registro">
+                                                            <label for="registro"> Apellido Paterno: (*)</label>
+                                                            <input type="text" name="apellido_paterno" value="" placeholder="Ingrese su apellido aqui" >
+                                                        </div>
+                                                        <br>
+                                                        <div class="conteiner-registro">
+                                                            <label for="registro"> Apellido Materno: (*)</label>
+                                                            <input type="text" name="apellido_materno" value="" placeholder="Ingrese su apellido aqui" >
+                                                        </div >
+                                                        <br>
+                                                        <div class="conteiner-registro">
+                                                            <label for="registro"> Razón Social:</label>
+                                                            <input type="text" name="razon_social" value="" placeholder="Ingrese su Razon social aqui" >
+                                                        </div>
+                                                        <br>
+                                                        <div class="conteiner-registro">
+                                                            <label for="registro"> Teléfono:</label>
+                                                            <input type="text" name="telefono" value="" placeholder="Ingrese su telefono aqui" >
+                                                        <br>    
+                                                        </div>
+                                                        </div>
+                                                </form>
+                                            </div>
+                                            <h4><a href="#"> Datos Acceso</a></h4>
+                                                <div class="content-registro">
+                                                    <form class="formulario-registro">
+                                                        <div >
+                                                            <div class="conteiner-registro">
+                                                                <label for="registro"> Email: (*)</label>
+                                                                <input type="text" name="email" value="" placeholder="Ingrese su Email aqui">
                                                             </div>
                                                             <br>
-                                                        <h4><i class="fa fa-square" aria-hidden="true"></i> Tiendas por Departamento</h4>
-                                                        <br> 
-                                                        <p class="texto">
-                                                            Entre los principales ERPs utilizados en el Perú para empresas de Tiendas por Departamento tenemos:
-                                                        </p>
-                                                        <h4><i class="fa fa-square" aria-hidden="true"></i> Oracle EBusiness Suite</h4> 
-                                                            <div class="sub-mapa">
-                                                                <h5><a href="#"><i class="fa fa-check" aria-hidden="true"></i> Oeschle</a></h5>
+                                                            <div class="conteiner-registro">
+                                                                <label for="registro"> Clave: (*)</label>
+                                                                <input type="text" name="clave" value="" placeholder="Ingrese su clave aqui" >
                                                             </div>
                                                             <br>
-                                                        <h4><i class="fa fa-square" aria-hidden="true"></i> Supermercados</h4>
-                                                        <br> 
-                                                        <p class="texto">
-                                                            Entre los principales ERPs utilizados en el Perú para empresas de Supermercados tenemos:
-                                                        </p>
-                                                        <h4><i class="fa fa-square" aria-hidden="true"></i> SAP R3</h4> 
-                                                            <div class="sub-mapa">
-                                                                <h5><a href="#"><i class="fa fa-check" aria-hidden="true"></i> Wong</a></h5>
-                                                                <h5><a href="#"><i class="fa fa-check" aria-hidden="true"></i> Metro</a></h5>
-                                                            </div>
                                                             <br>
-                                                        <h4><i class="fa fa-square" aria-hidden="true"></i> Oracle EBusiness Suite</h4> 
-                                                            <div class="sub-mapa">
-                                                                <h5><a href="#"><i class="fa fa-check" aria-hidden="true"></i> CARSA (electrodomesticos)</a></h5>
-                                                            </div>
-                                                            <br>
-                                            </div>    
+                                                             <div class="botones">
+                                                                <a href="#" class="btn btn_red">Registrarse</a>
+                                                                <a href="#" class="btn btn_red">Ingresar</a>    
+                                                            </div>                    
+                                                        </div>
+                                                    </form>
+                                                </div>
+                                            </div>
                                         </div><!-- End Post -->                                     
                                     </div><!-- End Post lists -->
                                 </div>
@@ -187,7 +209,7 @@
                 <div class="col col_12_of_12 footer-div">
                     <ul class="lista-footer">
                                 <li><a href="legal.html">Legal</a></li>
-                                <li><a href="contacto.html">Contácto</a></li>
+                                <li><a href="contacto.php">Contácto</a></li>
                                 <li><a href="politicas.html">Políticas</a> </li>
                                 <li><a href="publicidad.html">Publicidad</a>   </li>
                                 <li><a href="enlaces.html">Enlaces</a></li>
