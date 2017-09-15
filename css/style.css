@@ -78,6 +78,10 @@ body {
 
 }
 
+.formulario-registro{
+    width: 80%;
+}
+
 .abajo{
 
 }
@@ -107,6 +111,11 @@ body {
     justify-content: center;
 }
 
+..content-registro{
+    display: flex;
+    justify-content: space-between;
+}
+
 .content-afiche{
     display: flex;
     flex-wrap: wrap;
@@ -120,6 +129,20 @@ body {
 
 .espacio{
     margin:0 10px !important;
+}
+
+div.conteiner-registro{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+div.conteiner-registro label{
+    width: 150px;
+}
+
+div.conteiner-registro input{
+    flex: 1;
 }
 
 input.encuesta{
