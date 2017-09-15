@@ -141,7 +141,7 @@ div.SGE-1 ,div.SGE-2 ,div.SGE-3 ,div.SGE-4 ,div.SGE-5, div.SGE-6{
 
 .lista-footer{
     display: flex;
-    width: 400px;
+    width: 450px;
     list-style: none;
 }
 
@@ -149,8 +149,11 @@ div.SGE-1 ,div.SGE-2 ,div.SGE-3 ,div.SGE-4 ,div.SGE-5, div.SGE-6{
     color: white !important;
 
 }
+.lista-footer a:hover{
+    color: #f85050 !important; 
+}
 .lista-footer li{
-    width: 100%;
+    width: 80px;
     display: flex;
     justify-content: space-around
 
@@ -159,8 +162,7 @@ div.SGE-1 ,div.SGE-2 ,div.SGE-3 ,div.SGE-4 ,div.SGE-5, div.SGE-6{
 .lista-footer li:after
 {
     content: "|";
-    display:inline-block;  /*esto se use para poder usar margen 0*/
-    /*margin: 0 10px;*/
+    display:inline-block; 
 }
 
 .lista-footer li:last-child:after  /*codigo para quitar la ultima raya */
