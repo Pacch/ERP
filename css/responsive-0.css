@@ -283,3 +283,10 @@ article.post h1.entry_title {
 .nosotros-imagen img{
 display: none !important;
 }
+
+div .demanda-imagenes{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}

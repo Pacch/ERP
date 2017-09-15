@@ -473,3 +473,10 @@ nav.site_navigation ul.menu > li.has_dt_mega_menu > ul.dt_mega_menu > li > .widg
 .nosotros-imagen{
     width: 30% !important;
 }
+
+div .demanda-imagenes{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+
+}

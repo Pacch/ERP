@@ -168,6 +168,24 @@ div.SGE-1 ,div.SGE-2 ,div.SGE-3 ,div.SGE-4 ,div.SGE-5, div.SGE-6{
     display: none;
 }
 
+div .centrar{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+div .demanda-imagenes{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+
+}
+
+div .demanda-imagenes img{
+    width: 100%;
+    height: 100%;
+}
+
 div .footer-div{
     display: flex;
     justify-content: center;

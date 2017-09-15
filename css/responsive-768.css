@@ -199,3 +199,10 @@ ul.products li.product:nth-child(2n) {
 display: none !important;
 }
 
+div .demanda-imagenes{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+
+}
+
