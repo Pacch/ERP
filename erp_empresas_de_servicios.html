@@ -55,7 +55,10 @@
                             <h2 class="formato-h1 izquierda"><a href="index.html">PERU</a></h2>    
                         </div>
                         <div>
-                            <h2 id="site_description">Revista Digital de Sistema de Gestion</h2>        
+                            <h2 id="site_description">Revista Digital de Sistemas de Gestion</h2>
+
+                            <h2 class="formato-h1 izquierda"><a href="index.html">PERU</a></h2>    
+                        </div>        
                         </div>
                        
                     </div><!-- End Logo -->
