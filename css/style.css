@@ -72,6 +72,10 @@ body {
     box-sizing: border-box
 }
 
+div .erp-aqui{
+    width: 100%;
+    margin-top: 5px;
+}
 
 div .responsive-header{
     justify-content: flex-end !important;
