@@ -10,7 +10,6 @@
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="img/favicon.ico"/>
-    <link rel="stylesheet" href="iconos/css/font-awesome.min.css">
 
     <!-- Styles -->
     <link rel="stylesheet" href="css/normalize.css">
