@@ -206,3 +206,33 @@ div .demanda-imagenes{
 
 }
 
+.lista-footer{
+    display: flex;
+    list-style: none;
+}
+
+.lista-footer a{
+    font-size: 16px;
+    color: white;
+}
+
+.lista-footer a:hover{
+    color: #f85050; 
+}
+.lista-footer li{
+    width: 105px;
+    display: flex;
+    justify-content: space-around
+}
+
+.lista-footer li:after
+{
+    content: "|";
+    display:inline-block; 
+}
+
+.lista-footer li:last-child:after  /*codigo para quitar la ultima raya */
+{
+    display: none;
+}
+
