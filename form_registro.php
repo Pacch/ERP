@@ -85,7 +85,7 @@
                     <!-- Main content -->
                     <div class="col col_9_of_12">
                         <!-- Panel title -->
-                        <div class="panel_title" jQuery>
+                        <div class="panel_title">
                                 <div>
                                     <h4>Formulario de Registro</h4>
                                 </div>

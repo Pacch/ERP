@@ -480,3 +480,8 @@ div .demanda-imagenes{
     justify-content: center;
 
 }
+
+.widget_title a{
+    display: flex;
+    justify-content: center;
+}
