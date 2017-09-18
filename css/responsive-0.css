@@ -326,3 +326,12 @@ div .columnas-SGE{
  border-bottom: none;
 
 }
+
+#footer{
+    padding: 0;
+}
+
+div .responsive-header{
+display: flex;
+flex-wrap: wrap;
+}

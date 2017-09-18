@@ -35,7 +35,7 @@
             <div class="header_meta">
                 <div class="container">
                     <!-- Weather forecast -->
-                    <div class="weather_forecast">
+                           <div class="weather_forecast responsive-header">
                         <div class="izquierda">
                             <span class="city">Revista Digital de</span>
                             <span class="temp">de sistema de gestion</span>    
