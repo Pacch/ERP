@@ -9,7 +9,7 @@
     <meta name="author" content="ERP PERU">
 
     <!-- Favicons -->
-    <link rel="icon" href="favicon.png">
+    <link rel="shortcut icon" href="img/favicon.ico"/>
     <link rel="stylesheet" href="iconos/css/font-awesome.min.css">
 
     <!-- Styles -->

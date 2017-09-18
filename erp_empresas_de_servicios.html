@@ -8,7 +8,7 @@
     <meta name="description" content="PERU-ERP.COM, consultoría e implementación de sistemas de gestión empresarial erp en el Perú." />
     <meta name="author" content="ERP PERU">
     <!-- Favicons -->
-    <link rel="icon" href="favicon.png">
+    <link rel="shortcut icon" href="img/favicon.ico"/>
     <link rel="stylesheet" href="iconos/css/font-awesome.min.css">
 
     <!-- Styles -->
