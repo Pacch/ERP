@@ -293,3 +293,36 @@ div .demanda-imagenes{
 div .columnas-SGE{
     display: block;
 }
+
+.lista-footer{
+    display: inline;
+    list-style: none;
+}
+
+.lista-footer a{
+    color: white;
+}
+
+.lista-footer a:hover{
+    color: #f85050; 
+}
+.lista-footer li{
+    padding:10px 0 10px 0;
+    width: none;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px #eee solid;
+
+}
+
+.lista-footer li:after
+{
+    content: none;
+    display: inline-block;        
+}
+
+.lista-footer li:last-child  /*codigo para quitar la ultima raya */
+{
+ border-bottom: none;
+
+}

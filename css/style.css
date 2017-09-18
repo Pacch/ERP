@@ -168,28 +168,31 @@ div.SGE-1 ,div.SGE-2 ,div.SGE-3 ,div.SGE-4 ,div.SGE-5, div.SGE-6{
     padding: 15px 0;
 }
 
+div .imagen-size{
+    width: 20% !important;
+}
+
 .conteiner-SGE-TOP h4, .container-SGE-BOT h4{
     margin: 0;
 }
 
 .lista-footer{
     display: flex;
-    width: 450px;
     list-style: none;
 }
 
 .lista-footer a{
-    color: white !important;
-
+    font-size: 16px;
+    color: white;
 }
+
 .lista-footer a:hover{
-    color: #f85050 !important; 
+    color: #f85050; 
 }
 .lista-footer li{
-    width: 80px;
+    width: 97px;
     display: flex;
     justify-content: space-around
-
 }
 
 .lista-footer li:after

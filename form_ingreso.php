@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Demanda de ERP </title>
+    <title>Registro</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="keywords" content="que es sap, que es erp, trabajo it, consultoría erp, sistemas erp, sistema de gestión empresarial, mrp, sistemas rrhh, recursos humanos, sistema contable, sistema ventas, sistema facturación, sistema inventarios, sistemas logisticos, crm, sistemas, erp, consultoría, contable, software, implementación, contabilidad, ventas, facturacion, logistica, tesorería, inventarios, procure to pay, cuentas por cobrar, cuentas por pagar, activos fijos, contabilidad general, cuentas mayor, general ledger, consultoría sap, consultoría oracle, consultoría openerp, erp, xendra, compire, openbravo, lima, crm, peru, gestión, empresarial, sap, dynamic, ebs, código abierto, consultoria de sistemas, perú" />
     <meta name="description" content="PERU-ERP.COM, consultoría e implementación de sistemas de gestión empresarial erp en el Perú." />
     <meta name="author" content="ERP PERU">
-
     <!-- Favicons -->
     <link rel="icon" href="favicon.png">
     <link rel="stylesheet" href="iconos/css/font-awesome.min.css">
@@ -72,7 +71,7 @@
                             <li class="menu-item-has-children"><a href="empleos.html">Empleos</a>
                             </li>
 
-                            <li><a href="contacto.php">Contacto</a></li>
+                            <li><a href="contacto.php">Contácto</a></li>
                         </ul>
                     </nav><!-- End Site navigation -->
                     <!-- Site navigation -->
@@ -88,7 +87,7 @@
                         <!-- Panel title -->
                         <div class="panel_title" jQuery>
                                 <div>
-                                    <h4>Demanda de ERP en América Latina en primer trimestre 2010</h4>
+                                    <h4>Formulario de Ingreso</h4>
                                 </div>
                         </div>
                         <div class="row">
@@ -98,95 +97,30 @@
                                     <div class="list_posts">
                                         <!-- Post -->
                                         <div class="post clearfix">
-                                            <div class="item_content espacio ">
-                                                <h4><i class="fa fa-square" aria-hidden="true"></i> Perfil de empresas consultantes</a></h4>
-                                                    <p class="texto">Las 100 empresas que participaron del centro de evaluación pertenecen a diferentes tipos de industrias tal como puede verse en el gráfico “Tipos de industria”.</p>
-                                                    <div class="centrar">
-                                                        <div class="demanda-imagenes">
-                                                            <img src="images/demanda_erp_2010.jpg" alt="">
-                                                        </div>    
-                                                    </div>
-                                                    <br>
-                                                    <p class="texto">
-                                                        En relación a sus recursos humanos, dichas compañías emplean un promedio de 187 empleados, siendo la más pequeña una microempresa de 5 colaboradores y la más grande una empresa con 1.500 personas. Vale aclarar que el promedio de usuarios del Software ERP a implementar, es de 64. El siguiente gráfico muestra el promedio de usuarios por proyecto de trimestres anteriores. 
-                                                    </p>
-                                                    <br>
-                                                <h4><i class="fa fa-square" aria-hidden="true"></i> Promedio de usuarios ERP por proyecto</a></h4>                                     
-                                                    <div class="centrar">
-                                                        <div class="demanda-imagenes">
-                                                            <img src="images/usuarios_erp_2010.jpg" alt="">
-                                                        </div>    
-                                                    </div>
-                                                <h4><i class="fa fa-square" aria-hidden="true"></i> Recursos Económicos y Composición de Empresas</a></h4>
-                                                    <p class="texto">
-                                                        En lo que respecta a los recursos económicos, el promedio de facturación anual de las empresas consultantes se encuentra dentro del rango de USD 10.054.807 (Diez millones cincuenta y cuatro mil ochocientos dólares estadounidenses) y USD 15.063.056 (Quince millones sesenta y tres mil dólares estadounidenses). A su vez, la composición accionaria de las compañías se divide en:
-                                                        
-                                                    </p>
-                                                    <br>    
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> El 85 % firmas de capital nacional, es decir empresas mayoritariamente del país que realizaron la consulta.</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> El 9 % empresas de capitales extranjeros o mixtos con reportes al exterior.</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> El 6 % empresas de Capitales Extranjeros o Mixtos, con contabilidad bimonetaria.</h5></p>
-                                                    <br>
-                                                <h4><i class="fa fa-square" aria-hidden="true"></i> ¿Por qué buscan implementar un Software ERP?  </a></h4>  
-                                                     <p class="texto">
-                                                         Entre las razones por las cuales las empresas se encuentran en la búsqueda de nuevas gestión las firmas que respondieron, manifestaron que poseen necesidades de mayor integración; detectan limitaciones al negocio y reconocen estar disconformes con la plataforma actual. El siguiente gráfico ilustra la situación:
-                                                     </p>
-                                                     <div class="centrar">
-                                                        <div class="demanda-imagenes">
-                                                            <img src="images/motivo_cambio_erp.jpg" alt="">
-                                                        </div>    
-                                                    </div>
-                                                    <br>
-                                                <h4><i class="fa fa-square" aria-hidden="true"></i> ¿Cuánto se invierte en la adquisición de un Software ERP?  </a></h4>  
-                                                     <p class="texto">
-                                                         En relación a la inversión prevista por las empresas en la adquisición de un Software ERP, la misma se encuentra, en promedio, en el orden de USD comparación contra los trimestres anteriores:
-                                                     </p>
-                                                     <br>
-                                                     <div class="centrar">
-                                                        <div class="demanda-imagenes">
-                                                            <img src="images/inversion_promedio_erp.jpg" alt="">
-                                                        </div>    
-                                                    </div>
-                                                    <br>
-                                                    <p class="texto">
-                                                        Valores expresados en Dólares estadounidenses.
-                                                    </p>
-                                                    <br>
-                                                <h4><i class="fa fa-square" aria-hidden="true"></i> ¿Qué requerimientos tienen las empresas?</a></h4>
-                                                <p class="texto">
-                                                    Entre los distintos proyectos que estiman llevar a cabo las empresas que participaron en Evaluando ERP, el 63,49 % corresponde a la ADQUISICIÓN DE SOFTWARE. El 31,75% restante se divide en ALQUILER DE SOFTWARE , ALQUILER DE SOFTWARE Y PLATAFORMA y, por último, SERVICIOS OPERADOS POR UN TERCERO. El 4,76 % de las empresas no respondió a esta pregunta. Sobre 19 funcionalidades de negocios consultadas, la más requerida son:
-                                                </p>
-                                                <br>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Reportes analíticos</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Recursos Humanos</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Nómina</h5></p>
-                                                <p class="texto">
-                                                    Es la primera vez, desde que elaboramos este Monitor, que Administración y finanzas es desplazada. Le siguen en orden de funcionalidades solicitadas:
-                                                </p>
-                                                <br>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Administración y Finanzas</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Business Intelligence</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Logística y distribución</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Activos Fijos</h5></p>
-                                                <p class="texto">
-                                                    En una escala de Imprescindible, importante y deseable, los usuarios que utilizaron nuestro centro de Evaluación respondió que:
-                                                </p>
-                                                <br>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Administración y finanzas es imprescindible para un 58%.</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Nómina es imprescindible para un 56 %</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Reportes analíticos es imprescindible para un 52 %</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Control de calidad es imprescindible para un 52%</h5></p>
-                                                    <h5><p><i class="fa fa-check" aria-hidden="true"></i> Control de la producción es imprescindible para un 50%</h5></p>
-                                                <p class="texto">
-                                                    Si bien la demanda de Business Intelligence se destaca, un 48% consideró que es imprescindible para su proyecto.
-                                                </p>
-                                                <br>
-                                                <p>
-                                                    <strong>Fuente: EvaluandoERP.com</strong>
-                                                </p>
-
-
-
+                                            <div class="item_content espacio">
+                                            <h4><a href="#"><i class="fa fa-chevron-right" aria-hidden="true"></i> Ingreso</a></h4>
+                                            <br>
+                                            <h4><a href="#"> Datos Personales</a></h4>
+                                            <div class="content-registro">
+                                                <form class="formulario-registro">
+                                                    <div >
+                                                        <div class="conteiner-registro">
+                                                            <label for="registro"> Correo Electrónico: (*)</label>
+                                                            <input type="text" name="Nombres" value="" placeholder="Ingrese su nombre aqui">
+                                                        </div>
+                                                        <br>
+                                                        <div class="conteiner-registro">
+                                                            <label for="registro"> Clave: (*)</label>
+                                                            <input type="text" name="clave" value="" placeholder="Ingrese su clave aqui" >
+                                                        </div>
+                                                        <br>
+                                                        <div class="botones">
+                                                            <a href="#" class="btn btn_red">Ingresar</a>
+                                                            <a href="#" class="btn btn_red">Limpiar</a>    
+                                                        </div>
+                                                    </div>                    
+                                                    </form>
+                                                </div>
                                             </div>
                                         </div><!-- End Post -->                                     
                                     </div><!-- End Post lists -->
