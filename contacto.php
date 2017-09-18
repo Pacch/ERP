@@ -181,6 +181,7 @@
                             </div>
                         </div><!-- End Widget Banners 125 -->
                     </div><!-- End Sidebar -->
+                   </div>
                 </div>
                 <!-- Panel title -->
             </div>
