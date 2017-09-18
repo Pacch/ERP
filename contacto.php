@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
     <title>PERU-ERP.com - Contácto</title>
     <meta charset="UTF-8">
