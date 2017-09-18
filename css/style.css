@@ -72,6 +72,11 @@ body {
     box-sizing: border-box
 }
 
+
+div .responsive-header{
+    justify-content: flex-end !important;
+}
+
 .texto {
     font-size: 14px;
     text-align: justify;
@@ -172,6 +177,29 @@ div .imagen-size{
     width: 20% !important;
 }
 
+.particion-logo{
+    display: flex;
+}
+
+.particion-logo .izquierda{
+    padding-left: 3px;
+}
+
+.izquierda a{
+    color: #F85050;
+}
+
+
+.particion-logo .derecha{
+    padding-right: 3px;
+}
+
+.formato-h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+    margin: 0;
+}
 .conteiner-SGE-TOP h4, .container-SGE-BOT h4{
     margin: 0;
 }
