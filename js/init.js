@@ -84,7 +84,7 @@
             offset: 0
         });
 
-        // Images animated
+        // img animated
         $("img:not(.content_slider img, .post .entry_media img)").viewportChecker({
             classToAdd: 'visible animated',
             classToRemove: 'hidden', 
@@ -115,7 +115,7 @@
             pagerCustom: "#wide_slider_pager"
         });
 
-        // Popup images
+        // Popup img
         $(".popup_link", "#wrapper").magnificPopup({
             type: "image",
             mainClass: "mfp-with-zoom",

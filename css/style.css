@@ -1021,17 +1021,17 @@ ul.products li.product a.btn {
 div.product {
     position: relative
 }
-div.product .images {
+div.product .img {
     width: 48%;
     float: left;
     margin-right: 2%;
     margin-bottom: 30px
 }
-div.product .images a {
+div.product .img a {
     display: block;
     margin-bottom: 5px
 }
-div.product .images img {
+div.product .img img {
     width: 100%;
     max-width: 100%;
     height: auto;
@@ -1040,10 +1040,10 @@ div.product .woocommerce-tabs {
     clear: both;
     margin-bottom: 30px
 }
-div.product .images .thumbnails {
+div.product .img .thumbnails {
     overflow: hidden
 }
-div.product .images .thumbnails a {
+div.product .img .thumbnails a {
     float: left;
     margin-right: 5px;
     width: 24%
@@ -2409,7 +2409,7 @@ img.mfp-img {
 
 /* LOADER */
 .bx-wrapper .bx-loading {
-    background: url(../images/bx_loader.gif) center center no-repeat #fff;
+    background: url(../img/bx_loader.gif) center center no-repeat #fff;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -2781,7 +2781,7 @@ img.mfp-img {
     background-color: #7f8c8d
 }
 /*------------------------------------------------------------------------------
-    Images
+    img
 ------------------------------------------------------------------------------*/
 .alignleft {
     display: inline;
