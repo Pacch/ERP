@@ -22,7 +22,7 @@ La web se hizo como un trabajo freelance para la empresa Art Web System , no soy
 
 El proyecto terminado y Lanzado
 
-[Enlace al demo](http://peru-erp.com/)
+[Enlace a la web](http://peru-erp.com/)
 
 
 
